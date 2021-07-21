@@ -1,5 +1,5 @@
 # Toy example
-source('codice/tools_chapter4.R')
+source('codice/functions.R')
 N = 10
 pi_init = rep(0.2, N)
 y = c(0,1,0,1,0,0,0,1,1,0)
